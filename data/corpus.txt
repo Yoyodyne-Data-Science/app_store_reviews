@@ -1,0 +1,66 @@
+1.	Completeness
+2.	Compleet
+3.	Bug
+4.	UX
+4.  user experience
+5.	UI
+5.  user interface 
+6.	2FA 
+6.  factor authentication
+7.	Face ID
+8.	Gezichtsherkenning
+9.	Finger ID
+10.	Vingerherkenning 
+11.	Gebruikersvriendelijk 
+12.	User friendliness 
+13.	Privacy 
+14.	Update
+15.	Design
+16.	Interface
+17.	Functie
+18.	Widget
+19.	iDeal
+20.	Privacy
+21.	Veilig
+22.	Security
+23.	Overzicht
+24.	Clear 
+25.	Service
+26.	Style
+27.	Apple Pay
+28.	Native
+29.	Crash
+30.	Snelheid
+31.	Speed
+32.	Functionaliteit
+33.	Notificatie
+34.	Alert 
+35.	Dark mode
+36.	Adaptable
+37.	Aanpasbaar
+38.	Customize 
+39.	Inlog
+39. log in
+39. login
+39. log-in
+40.	Contact
+41.	Technisch
+42.	Technical 
+43.	Data 
+44.	Integratie 
+45.	Integration
+46.	Helpdesk
+47.	Feedback
+48.	Makkelijk
+49.	Easy
+50.	Intuitive
+51.	Intuitief 
+52.	Pincode
+53.	Authenticatie
+54.	Authentication 
+55.	Sustainable
+56.	Duurzaam
+57.	Environment
+58.	Toekomst
+59.	Future
+60.	Gamification 
